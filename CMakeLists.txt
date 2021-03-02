@@ -7,4 +7,4 @@ add_executable(
         learning_C
         #        day1/demo-2.c
         #        day1/demo-1.c
-         day1/demo-7.c)
+         day1/demo-8.c)
