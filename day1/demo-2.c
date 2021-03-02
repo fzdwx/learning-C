@@ -12,5 +12,5 @@ int main() {
     } else {
         printf("太老了\n");
     }
-
+    return 0;
 }

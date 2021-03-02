@@ -3,5 +3,8 @@ project(learning_C C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(learning_C
-        day1/xunhuan.c)
+add_executable(
+        learning_C
+        day1/demo-2.c
+        day1/demo-1.c
+        day1/main.c)
