@@ -32,6 +32,9 @@ int main() {
         case 7:
             printf("星期7");
             break;
+        default:
+            printf("hello");
+            break;
     }
     return 0;
 }
