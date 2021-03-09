@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.txt": "html",
+    "stdio.h": "c",
+    "crtdefs.h": "c",
+    "game.h": "c"
+  }
+}

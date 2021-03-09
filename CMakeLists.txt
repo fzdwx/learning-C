@@ -1,10 +1,10 @@
 cmake_minimum_required(VERSION 3.17)
-project(learning_C C)
+project(learning-C C)
 
 set(CMAKE_C_STANDARD 11)
 
 add_executable(
-        learning_C
-        #        day1/demo-2.c
-        #        day1/demo-1.c
-         day1/demo-8.c)
+        learning-C
+        day2/Game/game.c
+        day2/Game/game.h
+        day2/Game/test.c)
