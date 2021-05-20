@@ -42,5 +42,6 @@ void test() {
 }
 
 int main() {
-    test();
+//    test();
+    printf("hello wangyonfeng\n");
 }
