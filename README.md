@@ -38,3 +38,6 @@ int main() {
     }
 }
 ~~~
+
+# 运算优先级
+![img.png](img.png)
