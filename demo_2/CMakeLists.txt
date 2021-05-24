@@ -5,4 +5,4 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(
         test
-        test4.c test5.c test6.c test7.c)
+        test4.c test5.c test6.c test7.c ../demo_3/test1.c)
