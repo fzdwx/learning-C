@@ -15,7 +15,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49fe73ed-4f1e-4c11-b288-fff6efc3d5b6" name="默认变更列表" comment="update">
+      <change afterPath="$PROJECT_DIR$/struct/demp.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zhizheng/demo1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zhizheng/demo2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zhizheng/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zhizheng/函数指针.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1.c" beforeDir="false" afterPath="$PROJECT_DIR$/demo/demo1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo2.c" beforeDir="false" afterPath="$PROJECT_DIR$/demo/demo2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo3.c" beforeDir="false" afterPath="$PROJECT_DIR$/demo/demo3.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hanNuo.c" beforeDir="false" afterPath="$PROJECT_DIR$/demo/hanNuo.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +34,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ClangdSettings">
+    <option name="clangTidyViaClangd" value="false" />
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
@@ -42,7 +53,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\project\stduyproject\learning-C\demo_4\demo" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -57,7 +73,7 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo_4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo_4" TARGET_NAME="demo_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo_4" RUN_TARGET_NAME="demo_4">
+    <configuration name="demo_4" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="123123" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo_4" TARGET_NAME="demo_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo_4" RUN_TARGET_NAME="demo_4">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -81,7 +97,10 @@
       <workItem from="1621853826665" duration="5574000" />
       <workItem from="1621940388319" duration="10712000" />
       <workItem from="1622027617542" duration="5612000" />
-      <workItem from="1622114873611" duration="5335000" />
+      <workItem from="1622114873611" duration="6338000" />
+      <workItem from="1622205887609" duration="5935000" />
+      <workItem from="1622255867970" duration="14095000" />
+      <workItem from="1622289206209" duration="7165000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1621858426301</created>
@@ -111,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622116800998</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <created>1622122085868</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622122085868</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,5 +158,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
     <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="*(n3.obj)" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
